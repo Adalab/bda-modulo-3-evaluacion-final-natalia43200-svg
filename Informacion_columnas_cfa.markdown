@@ -1,3 +1,5 @@
+## Información sobre la actividad de vuelo: 
+
 - Loyalty Number: Este atributo representa un identificador único para cada cliente dentro del
 programa de lealtad de la aerolínea. Cada número de lealtad corresponde a un cliente específico.
 

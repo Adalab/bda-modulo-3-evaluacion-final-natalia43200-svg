@@ -1,3 +1,6 @@
+## Información detallada del cliente
+
+
 - Loyalty Number: Identificador único del cliente dentro del programa de lealtad. Este número permite
 correlacionar la información de este archivo con el archivo de actividad de vuelos.
 
